@@ -12,7 +12,9 @@ export function HumanFigure({ position = [0, 0, 0], label }) {
   const modelRef = useRef();
   
   // Load the GLB model (hooks must be called unconditionally)
-  const { scene } = useGLTF('/models/low_poly_male_base.glb');
+  // Use import.meta.env.BASE_URL to handle GitHub Pages base path
+  const modelPath = `${import.meta.env.BASE_URL}models/low_poly_male_base.glb`;
+  const { scene } = useGLTF(modelPath);
 
   // Clone and adjust the scene once using useMemo
   const adjustedScene = useMemo(() => {
@@ -138,5 +140,7 @@ export function HumanFigure({ position = [0, 0, 0], label }) {
 }
 
 // Preload the model for better performance
-useGLTF.preload('/models/low_poly_male_base.glb');
+// Use import.meta.env.BASE_URL to handle GitHub Pages base path
+const preloadModelPath = `${import.meta.env.BASE_URL}models/low_poly_male_base.glb`;
+useGLTF.preload(preloadModelPath);
 
