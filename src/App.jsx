@@ -5,7 +5,7 @@ import './App.css';
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/hcatlas">
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/calculations" element={<CalculationsDetails />} />
