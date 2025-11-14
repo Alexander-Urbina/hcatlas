@@ -1,0 +1,3470 @@
+{
+  "metadata": {
+    "title": "Human Consumption Volumes",
+    "description": "Per capita consumption volumes in cubic meters per year for visualization",
+    "year": 2023,
+    "export_date": "2025-11-14 09:47:42",
+    "total_countries": 242,
+    "units": {
+      "water": "m³/capita/year",
+      "energy": "m³/capita/year (battery volume equivalent)",
+      "concrete": "m³/capita/year",
+      "food": "m³/capita/year",
+      "waste": "m³/capita/year",
+      "total": "m³/capita/year",
+      "population": "total population (people)"
+    },
+    "notes": {
+      "water": "Domestic/municipal water consumption only (not agricultural/industrial)",
+      "energy": "Residential/household electricity consumption only (battery volume at 100 kWh/m³ density)",
+      "concrete": "Derived from cement production data",
+      "food": "Total food consumption (animal + vegetable products)",
+      "waste": "Municipal solid waste generation",
+      "missing_data": "NaN values indicate data not available for that country/category"
+    }
+  },
+  "categories": {
+    "water": "water_volume_m3_per_capita_per_year",
+    "energy": "energy_battery_volume_m3_per_capita_per_year",
+    "concrete": "concrete_volume_m3_per_capita_per_year",
+    "food": "food_volume_m3_per_capita_per_year",
+    "waste": "waste_volume_m3_per_capita_per_year",
+    "total": "total_volume_m3_per_capita_per_year",
+    "population": "population"
+  },
+  "data": [
+    {
+      "code": "WORLD",
+      "name": "World",
+      "year": 2023,
+      "population": 38022360822,
+      "volumes": {
+        "water": 12.394183135365726,
+        "energy": 2.8176669844639384,
+        "concrete": 0.20879134630485327,
+        "food": 0.08538234614834665,
+        "waste": 0.029089396489757682,
+        "total": 15.535113208772618
+      }
+    },
+    {
+      "code": "ABW",
+      "name": "Aruba",
+      "year": 2023,
+      "population": 107359,
+      "volumes": {
+        "water": null,
+        "energy": null,
+        "concrete": null,
+        "food": null,
+        "waste": 0.42705,
+        "total": 0.42705
+      }
+    },
+    {
+      "code": "AFG",
+      "name": "Afghanistane",
+      "year": 2023,
+      "population": 41454761,
+      "volumes": {
+        "water": 29.968500916192497,
+        "energy": null,
+        "concrete": 0.0143357650593068,
+        "food": 0.33793598,
+        "waste": 0.0812055657439374,
+        "total": 30.40197822699574
+      }
+    },
+    {
+      "code": "AGO",
+      "name": "Angolae",
+      "year": 2023,
+      "population": 36749906,
+      "volumes": {
+        "water": 2.37479916070745,
+        "energy": null,
+        "concrete": 0.0002507295042954,
+        "food": 0.3503021799999999,
+        "waste": 0.08395,
+        "total": 2.809302070211745
+      }
+    },
+    {
+      "code": "ALB",
+      "name": "Albania",
+      "year": 2023,
+      "population": 2745972,
+      "volumes": {
+        "water": 34.40793335311464,
+        "energy": 1.7778039980014373,
+        "concrete": 0.0028093096776972,
+        "food": 0.4727188,
+        "waste": 0.1904999963211992,
+        "total": 36.85176545711498
+      }
+    },
+    {
+      "code": "AND",
+      "name": "Andorra",
+      "year": 2023,
+      "population": 80856,
+      "volumes": {
+        "water": null,
+        "energy": null,
+        "concrete": null,
+        "food": null,
+        "waste": 0.2608242044861763,
+        "total": 0.2608242044861763
+      }
+    },
+    {
+      "code": "ARE",
+      "name": "United Arab Emirates",
+      "year": 2023,
+      "population": 10483751,
+      "volumes": {
+        "water": 26.95807357699841,
+        "energy": null,
+        "concrete": null,
+        "food": 0.45626314,
+        "waste": 0.2874809542042196,
+        "total": 27.701817671202637
+      }
+    },
+    {
+      "code": "ARG",
+      "name": "Argentina",
+      "year": 2023,
+      "population": 45538401,
+      "volumes": {
+        "water": 99.5356295704596,
+        "energy": 2.257417865857872,
+        "concrete": 0.0007878437114457,
+        "food": 0.49062278,
+        "waste": 0.2083517714917268,
+        "total": 102.49280983152065
+      }
+    },
+    {
+      "code": "ARM",
+      "name": "Armenia",
+      "year": 2023,
+      "population": 2964300,
+      "volumes": {
+        "water": 124.06967522277311,
+        "energy": null,
+        "concrete": 0.0010949344822434,
+        "food": 0.4568705,
+        "waste": 0.0847836708852048,
+        "total": 124.61242432814056
+      }
+    },
+    {
+      "code": "ASM",
+      "name": "American Samoa",
+      "year": 2023,
+      "population": 47521,
+      "volumes": {
+        "water": null,
+        "energy": null,
+        "concrete": null,
+        "food": null,
+        "waste": 0.1707718664004748,
+        "total": 0.1707718664004748
+      }
+    },
+    {
+      "code": "ATG",
+      "name": "Antigua and Barbuda",
+      "year": 2023,
+      "population": 93316,
+      "volumes": {
+        "water": 5.683311112624931,
+        "energy": null,
+        "concrete": null,
+        "food": 0.37146488,
+        "waste": 0.158017917480393,
+        "total": 6.212793910105325
+      }
+    },
+    {
+      "code": "AUS",
+      "name": "Australiae",
+      "year": 2023,
+      "population": 26652777,
+      "volumes": {
+        "water": 89.27399432493814,
+        "energy": 9.72427863708161,
+        "concrete": 1.0719869292204924,
+        "food": 0.52004178,
+        "waste": 0.2804827944350532,
+        "total": 100.8707844656753
+      }
+    },
+    {
+      "code": "AUT",
+      "name": "Austria",
+      "year": 2023,
+      "population": 9131761,
+      "volumes": {
+        "water": 86.759082491298,
+        "energy": 6.744428812799633,
+        "concrete": 0.0013766707835902,
+        "food": 0.5483555600000001,
+        "waste": 0.2940000058577907,
+        "total": 94.34724354073902
+      }
+    },
+    {
+      "code": "AZE",
+      "name": "Azerbaijan",
+      "year": 2023,
+      "population": 10153958,
+      "volumes": {
+        "water": 154.03348498365384,
+        "energy": 1.6568711432527103,
+        "concrete": 0.0010481486276442,
+        "food": 0.48752174,
+        "waste": 0.1518419237127178,
+        "total": 156.3307679392469
+      }
+    },
+    {
+      "code": "BDI",
+      "name": "Burundie",
+      "year": 2023,
+      "population": 13689450,
+      "volumes": {
+        "water": 2.52148857108658,
+        "energy": null,
+        "concrete": 0.0354809203959462,
+        "food": null,
+        "waste": 0.1388412697400264,
+        "total": 2.695810761222553
+      }
+    },
+    {
+      "code": "BEL",
+      "name": "Belgium",
+      "year": 2023,
+      "population": 11787423,
+      "volumes": {
+        "water": 91.973351053836,
+        "energy": 5.798149010178049,
+        "concrete": 0.0016089788485332,
+        "food": 0.57251126,
+        "waste": 0.2075000076192599,
+        "total": 98.55312031048184
+      }
+    },
+    {
+      "code": "BEN",
+      "name": "Benine",
+      "year": 2023,
+      "population": 14111034,
+      "volumes": {
+        "water": 1.1329860277585786,
+        "energy": null,
+        "concrete": 0.0006256502130581,
+        "food": null,
+        "waste": 0.0621120473660314,
+        "total": 1.1957237253376682
+      }
+    },
+    {
+      "code": "BFA",
+      "name": "Burkina Faso",
+      "year": 2023,
+      "population": 23025776,
+      "volumes": {
+        "water": 4.357930051994393,
+        "energy": null,
+        "concrete": 0.0003846620785828,
+        "food": 0.40746848,
+        "waste": 0.0710978017654168,
+        "total": 4.836880995838393
+      }
+    },
+    {
+      "code": "BGD",
+      "name": "Bangladesh3",
+      "year": 2023,
+      "population": 171466990,
+      "volumes": {
+        "water": 29.626978875391085,
+        "energy": null,
+        "concrete": 0.5832026327633091,
+        "food": 0.3777969,
+        "waste": 0.0474499990868638,
+        "total": 30.63542840724126
+      }
+    },
+    {
+      "code": "BGR",
+      "name": "Bulgaria",
+      "year": 2023,
+      "population": 6446596,
+      "volumes": {
+        "water": 100.96754374288378,
+        "energy": 3.752352404276616,
+        "concrete": 0.000880198745863,
+        "food": 0.4379416,
+        "waste": 0.2034999958007338,
+        "total": 105.362217941707
+      }
+    },
+    {
+      "code": "BHR",
+      "name": "Bahrain",
+      "year": 2023,
+      "population": 1577059,
+      "volumes": {
+        "water": 12.198692313985488,
+        "energy": 0.0,
+        "concrete": null,
+        "food": 0.4997361,
+        "waste": 0.3339750000175417,
+        "total": 13.03240341400303
+      }
+    },
+    {
+      "code": "BHS",
+      "name": "Bahamas",
+      "year": 2023,
+      "population": 399440,
+      "volumes": {
+        "water": null,
+        "energy": null,
+        "concrete": null,
+        "food": 0.39017478,
+        "waste": 0.3412281109921983,
+        "total": 0.7314028909921984
+      }
+    },
+    {
+      "code": "BIH",
+      "name": "Bosnia and Herzegovina",
+      "year": 2023,
+      "population": 3185073,
+      "volumes": {
+        "water": 11.675782417100686,
+        "energy": 2.573567387623456,
+        "concrete": 0.0010764498736987,
+        "food": 0.5048358800000001,
+        "waste": 0.176574062892662,
+        "total": 14.931836197490505
+      }
+    },
+    {
+      "code": "BLR",
+      "name": "Belarus",
+      "year": 2023,
+      "population": 9178298,
+      "volumes": {
+        "water": 18.374789310746507,
+        "energy": null,
+        "concrete": 1.5564666004213727,
+        "food": 0.49585396,
+        "waste": 0.2255096518130976,
+        "total": 20.65261952298098
+      }
+    },
+    {
+      "code": "BLZ",
+      "name": "Belize",
+      "year": 2023,
+      "population": 411106,
+      "volumes": {
+        "water": 30.07378166704737,
+        "energy": null,
+        "concrete": 0.4795426414181674,
+        "food": 0.41344426,
+        "waste": 0.1410829617187326,
+        "total": 31.10785153018427
+      }
+    },
+    {
+      "code": "BMU",
+      "name": "Bermuda",
+      "year": 2023,
+      "population": 64698,
+      "volumes": {
+        "water": null,
+        "energy": null,
+        "concrete": null,
+        "food": null,
+        "waste": 0.6327355782585883,
+        "total": 0.6327355782585883
+      }
+    },
+    {
+      "code": "BOL",
+      "name": "Bolivia",
+      "year": 2023,
+      "population": 12244159,
+      "volumes": {
+        "water": 3.575405189418821,
+        "energy": null,
+        "concrete": 0.0009280226712881,
+        "food": 0.34655582,
+        "waste": 0.1034551533119092,
+        "total": 4.026344185402018
+      }
+    },
+    {
+      "code": "BRA",
+      "name": "Brazil",
+      "year": 2023,
+      "population": 211140729,
+      "volumes": {
+        "water": 45.19638483026436,
+        "energy": 1.7965554338878853,
+        "concrete": 0.0009002255823142,
+        "food": 0.4998237,
+        "waste": 0.1896199511761669,
+        "total": 47.68328414091073
+      }
+    },
+    {
+      "code": "BRB",
+      "name": "Barbadose",
+      "year": 2023,
+      "population": 282336,
+      "volumes": {
+        "water": 29.733316732716386,
+        "energy": null,
+        "concrete": 2.226324055633814,
+        "food": 0.4552236199999999,
+        "waste": 0.3115018200220241,
+        "total": 32.72636622837222
+      }
+    },
+    {
+      "code": "BRN",
+      "name": "Brunei",
+      "year": 2023,
+      "population": 458949,
+      "volumes": {
+        "water": 24.22742721704881,
+        "energy": null,
+        "concrete": 0.1929875183766138,
+        "food": null,
+        "waste": 0.2555,
+        "total": 24.675914735425422
+      }
+    },
+    {
+      "code": "BTN",
+      "name": "Bhutan",
+      "year": 2023,
+      "population": 786385,
+      "volumes": {
+        "water": 51.888231491010345,
+        "energy": null,
+        "concrete": 2.9066097213378765,
+        "food": 0.45357966,
+        "waste": 0.0810195455908512,
+        "total": 55.32944041793908
+      }
+    },
+    {
+      "code": "BWA",
+      "name": "Botswana",
+      "year": 2023,
+      "population": 2480244,
+      "volumes": {
+        "water": 10.48127736801465,
+        "energy": null,
+        "concrete": 0.0806372276276043,
+        "food": 0.39622356,
+        "waste": 0.0523246812939421,
+        "total": 11.010462836936195
+      }
+    },
+    {
+      "code": "CAF",
+      "name": "Africa",
+      "year": 2023,
+      "population": 5152421,
+      "volumes": {
+        "water": 1.705370471771202,
+        "energy": null,
+        "concrete": null,
+        "food": 0.37316724,
+        "waste": 0.122468104651822,
+        "total": 2.201005816423024
+      }
+    },
+    {
+      "code": "CAN",
+      "name": "Canada",
+      "year": 2023,
+      "population": 40083484,
+      "volumes": {
+        "water": 139.08721849984627,
+        "energy": 14.806933249614744,
+        "concrete": null,
+        "food": 0.5241458400000001,
+        "waste": 0.3531205784378168,
+        "total": 154.77141816789884
+      }
+    },
+    {
+      "code": "CEB",
+      "name": "CEB",
+      "year": 2023,
+      "population": 100175859,
+      "volumes": {
+        "water": null,
+        "energy": 3.0506531518736497,
+        "concrete": null,
+        "food": null,
+        "waste": null,
+        "total": 3.0506531518736497
+      }
+    },
+    {
+      "code": "CHE",
+      "name": "Switzerland",
+      "year": 2023,
+      "population": 8888093,
+      "volumes": {
+        "water": 48.50223888505738,
+        "energy": 6.557545246207485,
+        "concrete": 0.0011990359301081,
+        "food": 0.4967489399999999,
+        "waste": 0.3545000065307402,
+        "total": 55.91223211372572
+      }
+    },
+    {
+      "code": "CHI",
+      "name": "Channel Islands",
+      "year": 2023,
+      "population": 167691,
+      "volumes": {
+        "water": null,
+        "energy": null,
+        "concrete": null,
+        "food": null,
+        "waste": 0.5437337806382605,
+        "total": 0.5437337806382605
+      }
+    },
+    {
+      "code": "CHL",
+      "name": "Chile",
+      "year": 2023,
+      "population": 19658835,
+      "volumes": {
+        "water": 216.9103064506617,
+        "energy": 3.2422445175413475,
+        "concrete": null,
+        "food": 0.4463906199999999,
+        "waste": 0.1936190160077797,
+        "total": 220.7925606042108
+      }
+    },
+    {
+      "code": "CHN",
+      "name": "China",
+      "year": 2023,
+      "population": 1410710000,
+      "volumes": {
+        "water": 72.41054500773906,
+        "energy": 1.9571157785795796,
+        "concrete": 4.097085864564652,
+        "food": 0.51303086,
+        "waste": 0.1410954474678893,
+        "total": 79.11887295835118
+      }
+    },
+    {
+      "code": "CIV",
+      "name": "Côte d'Ivoire",
+      "year": 2023,
+      "population": 31165654,
+      "volumes": {
+        "water": 4.584456303755486,
+        "energy": null,
+        "concrete": 0.4583800579225542,
+        "food": 0.4289115,
+        "waste": 0.1088363806343625,
+        "total": 5.580584242312402
+      }
+    },
+    {
+      "code": "CMR",
+      "name": "Cameroon",
+      "year": 2023,
+      "population": 28372687,
+      "volumes": {
+        "water": 4.723326650667736,
+        "energy": null,
+        "concrete": 0.0004128719184857,
+        "food": 0.4235416199999999,
+        "waste": 0.075513933365214,
+        "total": 5.222795075951436
+      }
+    },
+    {
+      "code": "COD",
+      "name": "Congo (Kinshasa)",
+      "year": 2023,
+      "population": 105789731,
+      "volumes": {
+        "water": 0.8005691355632473,
+        "energy": null,
+        "concrete": 6.206381492466679e-05,
+        "food": null,
+        "waste": 0.091350832207294,
+        "total": 0.891982031585466
+      }
+    },
+    {
+      "code": "COG",
+      "name": "Congo (Brazzaville)",
+      "year": 2023,
+      "population": 6182885,
+      "volumes": {
+        "water": 0.9140226524536704,
+        "energy": null,
+        "concrete": 0.0004810514370371,
+        "food": 0.3193195199999999,
+        "waste": 0.0851800655992225,
+        "total": 1.3190032894899302
+      }
+    },
+    {
+      "code": "COL",
+      "name": "Colombia",
+      "year": 2023,
+      "population": 52321152,
+      "volumes": {
+        "water": 56.23810434415058,
+        "energy": 1.0869829471644643,
+        "concrete": 0.0007760314058615,
+        "food": 0.45644272,
+        "waste": 0.1309092611041418,
+        "total": 57.91321530382505
+      }
+    },
+    {
+      "code": "COM",
+      "name": "Comoros",
+      "year": 2023,
+      "population": 850387,
+      "volumes": {
+        "water": 1.4375400326591374,
+        "energy": null,
+        "concrete": null,
+        "food": 0.34896336,
+        "waste": 0.0585349821976167,
+        "total": 1.845038374856754
+      }
+    },
+    {
+      "code": "CPV",
+      "name": "Cabo Verde",
+      "year": 2023,
+      "population": 522331,
+      "volumes": {
+        "water": 41.31178633527811,
+        "energy": null,
+        "concrete": null,
+        "food": 0.40786706,
+        "waste": 0.1289498209070798,
+        "total": 41.84860321618519
+      }
+    },
+    {
+      "code": "CRI",
+      "name": "Costa Rica",
+      "year": 2023,
+      "population": 5105525,
+      "volumes": {
+        "water": 81.33719147051107,
+        "energy": 1.5442290459844987,
+        "concrete": 0.0005764063720885,
+        "food": 0.44692498,
+        "waste": 0.1534395148789036,
+        "total": 83.48236141774656
+      }
+    },
+    {
+      "code": "CUB",
+      "name": "Cuba",
+      "year": 2023,
+      "population": 11019931,
+      "volumes": {
+        "water": 75.44322611278429,
+        "energy": null,
+        "concrete": 0.1348206522993915,
+        "food": null,
+        "waste": 0.1191068002856059,
+        "total": 75.69715356536929
+      }
+    },
+    {
+      "code": "CUW",
+      "name": "Curacao",
+      "year": 2023,
+      "population": 155800,
+      "volumes": {
+        "water": null,
+        "energy": null,
+        "concrete": null,
+        "food": null,
+        "waste": 0.0803,
+        "total": 0.0803
+      }
+    },
+    {
+      "code": "CYM",
+      "name": "Cayman Islands",
+      "year": 2023,
+      "population": 73038,
+      "volumes": {
+        "water": null,
+        "energy": null,
+        "concrete": null,
+        "food": null,
+        "waste": 0.5069965524234435,
+        "total": 0.5069965524234435
+      }
+    },
+    {
+      "code": "CYP",
+      "name": "Cyprus",
+      "year": 2023,
+      "population": 1344976,
+      "volumes": {
+        "water": 20.08583923194461,
+        "energy": 2.689192967012048,
+        "concrete": 0.0036665550697027,
+        "food": 0.4199631599999999,
+        "waste": 0.3209999895709489,
+        "total": 23.51966190359731
+      }
+    },
+    {
+      "code": "CZE",
+      "name": "Czechia",
+      "year": 2023,
+      "population": 10864042,
+      "volumes": {
+        "water": 16.236825170821557,
+        "energy": 4.17575705248562,
+        "concrete": 0.0009591273671438,
+        "food": 0.49410342,
+        "waste": 0.25,
+        "total": 21.15764477067432
+      }
+    },
+    {
+      "code": "DEU",
+      "name": "Germany",
+      "year": 2023,
+      "population": 83901923,
+      "volumes": {
+        "water": 76.89598666562595,
+        "energy": 4.781999096731073,
+        "concrete": 1.021600967528309,
+        "food": 0.5160428400000001,
+        "waste": 0.3045000048115786,
+        "total": 83.52012957469691
+      }
+    },
+    {
+      "code": "DJI",
+      "name": "Djibouti",
+      "year": 2023,
+      "population": 1152944,
+      "volumes": {
+        "water": 2.003735326701822,
+        "energy": null,
+        "concrete": 1.3381891426271726,
+        "food": 0.39726162,
+        "waste": 0.0770530774395252,
+        "total": 3.81623916676852
+      }
+    },
+    {
+      "code": "DMA",
+      "name": "Dominica",
+      "year": 2023,
+      "population": 66510,
+      "volumes": {
+        "water": 35.88958323897466,
+        "energy": null,
+        "concrete": null,
+        "food": null,
+        "waste": 0.0909944751381215,
+        "total": 35.98057771411278
+      }
+    },
+    {
+      "code": "DNK",
+      "name": "Denmark",
+      "year": 2023,
+      "population": 5946952,
+      "volumes": {
+        "water": 39.54364813735968,
+        "energy": 4.937635279383459,
+        "concrete": 0.0009752895264666,
+        "food": 0.5451450200000001,
+        "waste": 0.4219999800637719,
+        "total": 45.44940370633337
+      }
+    },
+    {
+      "code": "DOM",
+      "name": "Dominican Republic",
+      "year": 2023,
+      "population": 11331265,
+      "volumes": {
+        "water": 76.20639922270149,
+        "energy": null,
+        "concrete": 0.0016389545713941,
+        "food": 0.48376224,
+        "waste": 0.1929976214795913,
+        "total": 76.88479803875248
+      }
+    },
+    {
+      "code": "DZA",
+      "name": "Algeriae",
+      "year": 2023,
+      "population": 46164219,
+      "volumes": {
+        "water": 27.138643803648566,
+        "energy": 1.188169131595186,
+        "concrete": 1.7329438628648737,
+        "food": 0.49581746,
+        "waste": 0.1524248158870505,
+        "total": 30.70799907399568
+      }
+    },
+    {
+      "code": "EAP",
+      "name": "EAP",
+      "year": 2023,
+      "population": 2137527754,
+      "volumes": {
+        "water": null,
+        "energy": 3.898524918286832,
+        "concrete": null,
+        "food": null,
+        "waste": null,
+        "total": 3.898524918286832
+      }
+    },
+    {
+      "code": "EAS",
+      "name": "EAS",
+      "year": 2023,
+      "population": 2384479340,
+      "volumes": {
+        "water": null,
+        "energy": 4.150956508624906,
+        "concrete": null,
+        "food": null,
+        "waste": null,
+        "total": 4.150956508624906
+      }
+    },
+    {
+      "code": "ECA",
+      "name": "ECA",
+      "year": 2023,
+      "population": 249053262,
+      "volumes": {
+        "water": null,
+        "energy": 2.4397518746698093,
+        "concrete": null,
+        "food": null,
+        "waste": null,
+        "total": 2.4397518746698093
+      }
+    },
+    {
+      "code": "ECS",
+      "name": "ECS",
+      "year": 2023,
+      "population": 925640799,
+      "volumes": {
+        "water": null,
+        "energy": 3.6451766904909584,
+        "concrete": null,
+        "food": null,
+        "waste": null,
+        "total": 3.6451766904909584
+      }
+    },
+    {
+      "code": "ECU",
+      "name": "Ecuadore",
+      "year": 2023,
+      "population": 17980083,
+      "volumes": {
+        "water": 66.71277109461239,
+        "energy": null,
+        "concrete": 0.0008930516537183,
+        "food": 0.38265286,
+        "waste": 0.1640575568829947,
+        "total": 67.2603745631491
+      }
+    },
+    {
+      "code": "EGY",
+      "name": "Egypt",
+      "year": 2023,
+      "population": 114535772,
+      "volumes": {
+        "water": 55.01556214272505,
+        "energy": 0.8210928198048013,
+        "concrete": 0.001287183635769,
+        "food": 0.4517254600000001,
+        "waste": 0.1195719243117462,
+        "total": 56.40923953047737
+      }
+    },
+    {
+      "code": "EMU",
+      "name": "EMU",
+      "year": 2023,
+      "population": 350292725,
+      "volumes": {
+        "water": null,
+        "energy": 4.111683164416276,
+        "concrete": null,
+        "food": null,
+        "waste": null,
+        "total": 4.111683164416276
+      }
+    },
+    {
+      "code": "ERI",
+      "name": "Eritreae",
+      "year": 2023,
+      "population": 3470390,
+      "volumes": {
+        "water": 20.47023963864424,
+        "energy": null,
+        "concrete": 0.1481924839242028,
+        "food": null,
+        "waste": 0.081229914251043,
+        "total": 20.69966203681949
+      }
+    },
+    {
+      "code": "ESP",
+      "name": "Spain",
+      "year": 2023,
+      "population": 48347910,
+      "volumes": {
+        "water": 91.03108125205324,
+        "energy": 4.258440954324603,
+        "concrete": 0.0011700904666081,
+        "food": 0.4930653599999999,
+        "waste": 0.238000007647082,
+        "total": 96.02175766449152
+      }
+    },
+    {
+      "code": "EST",
+      "name": "Estonia",
+      "year": 2023,
+      "population": 1370286,
+      "volumes": {
+        "water": 107.17223523603244,
+        "energy": 4.0055141773323255,
+        "concrete": 0.4149290210740156,
+        "food": 0.47983192,
+        "waste": 0.1845000033167746,
+        "total": 112.25701035775556
+      }
+    },
+    {
+      "code": "ETH",
+      "name": "Ethiopiae,",
+      "year": 2023,
+      "population": 128691692,
+      "volumes": {
+        "water": 16.81371800443873,
+        "energy": null,
+        "concrete": 0.0002286749903682,
+        "food": 0.37352932,
+        "waste": 0.0327054603188576,
+        "total": 17.220181459747955
+      }
+    },
+    {
+      "code": "EUU",
+      "name": "EUU",
+      "year": 2023,
+      "population": 449425965,
+      "volumes": {
+        "water": null,
+        "energy": 4.00927458652728,
+        "concrete": null,
+        "food": null,
+        "waste": null,
+        "total": 4.00927458652728
+      }
+    },
+    {
+      "code": "FIN",
+      "name": "Finlande",
+      "year": 2023,
+      "population": 5583911,
+      "volumes": {
+        "water": 91.72807790647634,
+        "energy": 12.894646780724086,
+        "concrete": 0.0007163437955941,
+        "food": 0.4884576,
+        "waste": 0.2830000023549385,
+        "total": 105.39489863335096
+      }
+    },
+    {
+      "code": "FJI",
+      "name": "Fiji",
+      "year": 2023,
+      "population": 924145,
+      "volumes": {
+        "water": 11.07329027807163,
+        "energy": null,
+        "concrete": 0.3215327217513022,
+        "food": 0.42895384,
+        "waste": 0.1092103862823295,
+        "total": 11.93298722610526
+      }
+    },
+    {
+      "code": "FRA",
+      "name": "France",
+      "year": 2023,
+      "population": 68287487,
+      "volumes": {
+        "water": 89.66037757515402,
+        "energy": 6.29453240825805,
+        "concrete": null,
+        "food": 0.5094743,
+        "waste": 0.2740000102594863,
+        "total": 96.73838429367154
+      }
+    },
+    {
+      "code": "FRO",
+      "name": "Faeroe Islands",
+      "year": 2023,
+      "population": 54439,
+      "volumes": {
+        "water": null,
+        "energy": null,
+        "concrete": null,
+        "food": null,
+        "waste": 0.6244625527210188,
+        "total": 0.6244625527210188
+      }
+    },
+    {
+      "code": "FSM",
+      "name": "Micronesia",
+      "year": 2023,
+      "population": 112630,
+      "volumes": {
+        "water": null,
+        "energy": null,
+        "concrete": null,
+        "food": 0.4252089399999999,
+        "waste": 0.1240723958184434,
+        "total": 0.5492813358184434
+      }
+    },
+    {
+      "code": "GAB",
+      "name": "Gabon",
+      "year": 2023,
+      "population": 2484789,
+      "volumes": {
+        "water": 6.86232460583734,
+        "energy": null,
+        "concrete": 0.6232204942035032,
+        "food": 0.3922246199999999,
+        "waste": 0.1096097039323768,
+        "total": 7.987379423973221
+      }
+    },
+    {
+      "code": "GBR",
+      "name": "United Kingdom",
+      "year": 2023,
+      "population": 68492000,
+      "volumes": {
+        "water": 31.11220308175472,
+        "energy": 4.4772601763709625,
+        "concrete": null,
+        "food": null,
+        "waste": 0.2315000054769503,
+        "total": 35.82096326360264
+      }
+    },
+    {
+      "code": "GEO",
+      "name": "Georgia",
+      "year": 2023,
+      "population": 3715483,
+      "volumes": {
+        "water": 41.77758491617463,
+        "energy": 2.36763295646892,
+        "concrete": 0.0020531843177781,
+        "food": 0.4379751799999999,
+        "waste": 0.107610771838261,
+        "total": 44.69285700879959
+      }
+    },
+    {
+      "code": "GHA",
+      "name": "Ghana",
+      "year": 2023,
+      "population": 33787914,
+      "volumes": {
+        "water": 5.240345770549207,
+        "energy": null,
+        "concrete": 0.0006257520704846,
+        "food": 0.4562485399999999,
+        "waste": 0.082125003806516,
+        "total": 5.779345066426208
+      }
+    },
+    {
+      "code": "GIB",
+      "name": "Gibraltar",
+      "year": 2023,
+      "population": 38471,
+      "volumes": {
+        "water": null,
+        "energy": null,
+        "concrete": null,
+        "food": null,
+        "waste": 0.2521190851500461,
+        "total": 0.2521190851500461
+      }
+    },
+    {
+      "code": "GIN",
+      "name": "Guinea",
+      "year": 2023,
+      "population": 14405468,
+      "volumes": {
+        "water": 7.593444260556376,
+        "energy": null,
+        "concrete": 0.00035700729354,
+        "food": 0.4303423,
+        "waste": 0.0366988738590297,
+        "total": 8.060842441708946
+      }
+    },
+    {
+      "code": "GLP",
+      "name": "Guadeloupee",
+      "year": 2023,
+      "population": null,
+      "volumes": {
+        "water": null,
+        "energy": null,
+        "concrete": null,
+        "food": null,
+        "waste": null,
+        "total": 0.0
+      }
+    },
+    {
+      "code": "GMB",
+      "name": "Gambia",
+      "year": 2023,
+      "population": 2697845,
+      "volumes": {
+        "water": 4.621199949478211,
+        "energy": null,
+        "concrete": null,
+        "food": 0.35073872,
+        "waste": 0.073756315061818,
+        "total": 5.045694984540029
+      }
+    },
+    {
+      "code": "GNB",
+      "name": "Guinea-Bissau",
+      "year": 2023,
+      "population": 2153339,
+      "volumes": {
+        "water": 9.96691391254528,
+        "energy": null,
+        "concrete": null,
+        "food": 0.3737045199999999,
+        "waste": 0.0817593189820426,
+        "total": 10.422377751527325
+      }
+    },
+    {
+      "code": "GNQ",
+      "name": "Equatorial Guinea",
+      "year": 2023,
+      "population": 1847549,
+      "volumes": {
+        "water": 1.3165037282864822,
+        "energy": null,
+        "concrete": null,
+        "food": null,
+        "waste": 0.0812299159223571,
+        "total": 1.3977336442088393
+      }
+    },
+    {
+      "code": "GRC",
+      "name": "Greece",
+      "year": 2023,
+      "population": 10405588,
+      "volumes": {
+        "water": 115.4381916356102,
+        "energy": 4.107516557449707,
+        "concrete": 1.92204419394656,
+        "food": 0.4937208999999999,
+        "waste": 0.2619999893620218,
+        "total": 122.2234732763685
+      }
+    },
+    {
+      "code": "GRD",
+      "name": "Grenada",
+      "year": 2023,
+      "population": 117081,
+      "volumes": {
+        "water": 14.462394165892954,
+        "energy": null,
+        "concrete": null,
+        "food": 0.4127201,
+        "waste": 0.1400067971483015,
+        "total": 15.015121063041256
+      }
+    },
+    {
+      "code": "GRL",
+      "name": "Greenland",
+      "year": 2023,
+      "population": 56865,
+      "volumes": {
+        "water": null,
+        "energy": null,
+        "concrete": null,
+        "food": null,
+        "waste": 0.4393287057376329,
+        "total": 0.4393287057376329
+      }
+    },
+    {
+      "code": "GTM",
+      "name": "Guatemala",
+      "year": 2023,
+      "population": 18124838,
+      "volumes": {
+        "water": 22.33425148021554,
+        "energy": null,
+        "concrete": null,
+        "food": 0.41218282,
+        "waste": 0.0848101219516172,
+        "total": 22.83124442216716
+      }
+    },
+    {
+      "code": "GUF",
+      "name": "French Guianae",
+      "year": 2023,
+      "population": null,
+      "volumes": {
+        "water": null,
+        "energy": null,
+        "concrete": null,
+        "food": null,
+        "waste": null,
+        "total": 0.0
+      }
+    },
+    {
+      "code": "GUM",
+      "name": "Guam",
+      "year": 2023,
+      "population": 166506,
+      "volumes": {
+        "water": null,
+        "energy": null,
+        "concrete": null,
+        "food": null,
+        "waste": 0.4422621317347303,
+        "total": 0.4422621317347303
+      }
+    },
+    {
+      "code": "GUY",
+      "name": "Guyanae",
+      "year": 2023,
+      "population": 826353,
+      "volumes": {
+        "water": 210.8538671080233,
+        "energy": null,
+        "concrete": 0.0038032864197953,
+        "food": 0.4844367599999999,
+        "waste": 0.1200522800700818,
+        "total": 211.46215943451315
+      }
+    },
+    {
+      "code": "HKG",
+      "name": "Hong Kong",
+      "year": 2023,
+      "population": 7536100,
+      "volumes": {
+        "water": null,
+        "energy": null,
+        "concrete": 0.0006066040221637,
+        "food": null,
+        "waste": 0.388725,
+        "total": 0.3893316040221637
+      }
+    },
+    {
+      "code": "HND",
+      "name": "Honduras",
+      "year": 2023,
+      "population": 10644851,
+      "volumes": {
+        "water": 18.41651046701951,
+        "energy": 0.5264704973324663,
+        "concrete": 0.0004978933007141,
+        "food": 0.38370698,
+        "waste": 0.1186250000137168,
+        "total": 19.445810837666407
+      }
+    },
+    {
+      "code": "HRV",
+      "name": "Croatia",
+      "year": 2023,
+      "population": 3859686,
+      "volumes": {
+        "water": 21.11820835484064,
+        "energy": 3.138830464447111,
+        "concrete": 0.0023140298385486,
+        "food": 0.50334522,
+        "waste": 0.2225,
+        "total": 24.98519806912629
+      }
+    },
+    {
+      "code": "HTI",
+      "name": "Haitie",
+      "year": 2023,
+      "population": 11637398,
+      "volumes": {
+        "water": 15.11533891987954,
+        "energy": null,
+        "concrete": 0.073654167120765,
+        "food": 0.28598626,
+        "waste": 0.1064709750340498,
+        "total": 15.581450322034357
+      }
+    },
+    {
+      "code": "HUN",
+      "name": "Hungarye",
+      "year": 2023,
+      "population": 9592186,
+      "volumes": {
+        "water": 58.61410214028821,
+        "energy": 3.22320688944105,
+        "concrete": 0.0006850814372686,
+        "food": 0.5181700600000001,
+        "waste": 0.1934999993346945,
+        "total": 62.54966417050123
+      }
+    },
+    {
+      "code": "IBD",
+      "name": "IBD",
+      "year": 2023,
+      "population": 4952554878,
+      "volumes": {
+        "water": null,
+        "energy": 2.37543528650386,
+        "concrete": null,
+        "food": null,
+        "waste": null,
+        "total": 2.37543528650386
+      }
+    },
+    {
+      "code": "IDN",
+      "name": "Indonesia",
+      "year": 2023,
+      "population": 281190067,
+      "volumes": {
+        "water": 55.853937806520186,
+        "energy": 0.6358944393295383,
+        "concrete": 0.0006800077634727,
+        "food": 0.4234438,
+        "waste": 0.1248489863426545,
+        "total": 57.038805039955854
+      }
+    },
+    {
+      "code": "IMN",
+      "name": "Isle of Man",
+      "year": 2023,
+      "population": 84165,
+      "volumes": {
+        "water": null,
+        "energy": null,
+        "concrete": null,
+        "food": null,
+        "waste": 0.312974405329437,
+        "total": 0.312974405329437
+      }
+    },
+    {
+      "code": "IND",
+      "name": "Indiae",
+      "year": 2023,
+      "population": 1438069596,
+      "volumes": {
+        "water": 54.472816630728445,
+        "energy": 0.4253870060959138,
+        "concrete": 0.8344519648686043,
+        "food": 0.389601,
+        "waste": 0.0701417887482004,
+        "total": 56.19239839044117
+      }
+    },
+    {
+      "code": "IRL",
+      "name": "Irelande",
+      "year": 2023,
+      "population": 5307600,
+      "volumes": {
+        "water": 38.48626491779021,
+        "energy": 5.073168663802849,
+        "concrete": 0.0020455842296222,
+        "food": 0.5724543200000001,
+        "waste": 0.2990000032872326,
+        "total": 44.43293348910991
+      }
+    },
+    {
+      "code": "IRN",
+      "name": "Irane",
+      "year": 2023,
+      "population": 90608707,
+      "volumes": {
+        "water": 83.00444480020222,
+        "energy": null,
+        "concrete": 0.0022514392573773,
+        "food": 0.41977336,
+        "waste": 0.1113949545765195,
+        "total": 83.53786455403612
+      }
+    },
+    {
+      "code": "IRQ",
+      "name": "Iraq",
+      "year": 2023,
+      "population": 45074049,
+      "volumes": {
+        "water": 67.33808204921998,
+        "energy": null,
+        "concrete": 0.0022502653672975,
+        "food": 0.40351772,
+        "waste": 0.1819156062214362,
+        "total": 67.9257656408087
+      }
+    },
+    {
+      "code": "ISL",
+      "name": "Iceland",
+      "year": 2023,
+      "population": 393349,
+      "volumes": {
+        "water": 91.03640730086398,
+        "energy": 31.22227335012925,
+        "concrete": null,
+        "food": 0.53743476,
+        "waste": 0.3280000091729761,
+        "total": 123.12411542016622
+      }
+    },
+    {
+      "code": "ISR",
+      "name": "Israel",
+      "year": 2023,
+      "population": 9849000,
+      "volumes": {
+        "water": null,
+        "energy": 4.740440653873492,
+        "concrete": null,
+        "food": 0.5480694,
+        "waste": 0.3221918592856887,
+        "total": 5.610701913159181
+      }
+    },
+    {
+      "code": "ITA",
+      "name": "Italy",
+      "year": 2023,
+      "population": 58993475,
+      "volumes": {
+        "water": 91.53100564779906,
+        "energy": 4.804436287233467,
+        "concrete": 0.0009078001544117,
+        "food": 0.54788836,
+        "waste": 0.2494999949914918,
+        "total": 97.13373809017844
+      }
+    },
+    {
+      "code": "JAM",
+      "name": "Jamaica",
+      "year": 2023,
+      "population": 2839786,
+      "volumes": {
+        "water": 56.60615348440823,
+        "energy": null,
+        "concrete": 0.0965867548772035,
+        "food": 0.42224076,
+        "waste": 0.1825,
+        "total": 57.30748099928543
+      }
+    },
+    {
+      "code": "JOR",
+      "name": "Jordan",
+      "year": 2023,
+      "population": 11439213,
+      "volumes": {
+        "water": 10.119378156870072,
+        "energy": null,
+        "concrete": null,
+        "food": 0.37317308,
+        "waste": 0.1503540634392683,
+        "total": 10.64290530030934
+      }
+    },
+    {
+      "code": "JPN",
+      "name": "Japan",
+      "year": 2023,
+      "population": 124516650,
+      "volumes": {
+        "water": 95.47906732251508,
+        "energy": 7.991837139852374,
+        "concrete": 0.0010935083781968,
+        "food": null,
+        "waste": 0.1688149154995992,
+        "total": 103.64081288624524
+      }
+    },
+    {
+      "code": "KAZ",
+      "name": "Kazakhstan",
+      "year": 2023,
+      "population": 20330104,
+      "volumes": {
+        "water": 149.434880636675,
+        "energy": 3.6018999214170284,
+        "concrete": 0.0017204605966178,
+        "food": 0.45784432,
+        "waste": 0.1387535684882949,
+        "total": 153.6350989071769
+      }
+    },
+    {
+      "code": "KEN",
+      "name": "Kenya",
+      "year": 2023,
+      "population": 55339003,
+      "volumes": {
+        "water": 14.853668099615136,
+        "energy": 0.1140497598050327,
+        "concrete": 0.0004964723653276,
+        "food": 0.31331746,
+        "waste": 0.0676551201069345,
+        "total": 15.34918691189243
+      }
+    },
+    {
+      "code": "KGZ",
+      "name": "Kyrgyzstan",
+      "year": 2023,
+      "population": 7099750,
+      "volumes": {
+        "water": 132.49861388164203,
+        "energy": null,
+        "concrete": 0.0011948106824686,
+        "food": 0.40343158,
+        "waste": 0.0934462556027464,
+        "total": 132.99668652792724
+      }
+    },
+    {
+      "code": "KHM",
+      "name": "Cambodia",
+      "year": 2023,
+      "population": 17423880,
+      "volumes": {
+        "water": 15.225253934804856,
+        "energy": null,
+        "concrete": 0.0014266135244929,
+        "food": 0.38586486,
+        "waste": 0.0356563085472329,
+        "total": 15.64820171687658
+      }
+    },
+    {
+      "code": "KIR",
+      "name": "Kiribati",
+      "year": 2023,
+      "population": 132530,
+      "volumes": {
+        "water": null,
+        "energy": null,
+        "concrete": null,
+        "food": 0.45635074,
+        "waste": 0.1561424341098824,
+        "total": 0.6124931741098825
+      }
+    },
+    {
+      "code": "KNA",
+      "name": "Saint Kitts and Nevis",
+      "year": 2023,
+      "population": 46758,
+      "volumes": {
+        "water": 31.321542884923883,
+        "energy": null,
+        "concrete": null,
+        "food": 0.41661684,
+        "waste": 0.3029411656351311,
+        "total": 32.041100890559015
+      }
+    },
+    {
+      "code": "KOR",
+      "name": "Korea, Republic of",
+      "year": 2023,
+      "population": 51712619,
+      "volumes": {
+        "water": 67.75823143449753,
+        "energy": 7.998248938039642,
+        "concrete": 0.0028241794190643,
+        "food": null,
+        "waste": 0.1981603449727159,
+        "total": 75.95746489692895
+      }
+    },
+    {
+      "code": "KWT",
+      "name": "Kuwaite",
+      "year": 2023,
+      "population": 4853420,
+      "volumes": {
+        "water": 20.121117793533152,
+        "energy": null,
+        "concrete": 0.0024136146705386,
+        "food": 0.4577946799999999,
+        "waste": 0.2918531608364411,
+        "total": 20.87317924904013
+      }
+    },
+    {
+      "code": "LAC",
+      "name": "LAC",
+      "year": 2023,
+      "population": 589889543,
+      "volumes": {
+        "water": null,
+        "energy": 1.8235369383677391,
+        "concrete": null,
+        "food": null,
+        "waste": null,
+        "total": 1.8235369383677391
+      }
+    },
+    {
+      "code": "LAO",
+      "name": "Laos",
+      "year": 2023,
+      "population": 7664993,
+      "volumes": {
+        "water": 116.60212828238384,
+        "energy": null,
+        "concrete": 0.0026465404842136,
+        "food": 0.4654626,
+        "waste": 0.0264031919725893,
+        "total": 117.09664061484064
+      }
+    },
+    {
+      "code": "LBN",
+      "name": "Lebanon",
+      "year": 2023,
+      "population": 5773493,
+      "volumes": {
+        "water": 37.82602254634163,
+        "energy": null,
+        "concrete": 0.0010639758535876,
+        "food": 0.41283982,
+        "waste": 0.1820362684064099,
+        "total": 38.42196261060163
+      }
+    },
+    {
+      "code": "LBR",
+      "name": "Liberia",
+      "year": 2023,
+      "population": 5493031,
+      "volumes": {
+        "water": 3.2561062966412635,
+        "energy": null,
+        "concrete": 0.2605899313928087,
+        "food": 0.3117319,
+        "waste": 0.0803412505565151,
+        "total": 3.9087693785905873
+      }
+    },
+    {
+      "code": "LBY",
+      "name": "Libya",
+      "year": 2023,
+      "population": 7305659,
+      "volumes": {
+        "water": 94.95413910050564,
+        "energy": null,
+        "concrete": null,
+        "food": 0.41860828,
+        "waste": 0.1733750000201824,
+        "total": 95.54612238052582
+      }
+    },
+    {
+      "code": "LCA",
+      "name": "Saint Lucia",
+      "year": 2023,
+      "population": 179285,
+      "volumes": {
+        "water": 28.77529707316192,
+        "energy": null,
+        "concrete": null,
+        "food": 0.38753072,
+        "waste": 0.219,
+        "total": 29.38182779316192
+      }
+    },
+    {
+      "code": "LCN",
+      "name": "LCN",
+      "year": 2023,
+      "population": 657617663,
+      "volumes": {
+        "water": null,
+        "energy": 1.869662035820586,
+        "concrete": null,
+        "food": null,
+        "waste": null,
+        "total": 1.869662035820586
+      }
+    },
+    {
+      "code": "LIE",
+      "name": "Liechtenstein",
+      "year": 2023,
+      "population": 39850,
+      "volumes": {
+        "water": null,
+        "energy": null,
+        "concrete": null,
+        "food": null,
+        "waste": 0.4430428239157203,
+        "total": 0.4430428239157203
+      }
+    },
+    {
+      "code": "LKA",
+      "name": "Sri Lanka",
+      "year": 2023,
+      "population": 22037000,
+      "volumes": {
+        "water": 69.9903824674854,
+        "energy": null,
+        "concrete": 0.0003474675707738,
+        "food": 0.39056606,
+        "waste": 0.0620584351271046,
+        "total": 70.44335443018328
+      }
+    },
+    {
+      "code": "LSO",
+      "name": "Lesotho",
+      "year": 2023,
+      "population": 2311472,
+      "volumes": {
+        "water": 2.297528318438617,
+        "energy": null,
+        "concrete": null,
+        "food": 0.2734142,
+        "waste": 0.0186850536867477,
+        "total": 2.589627572125365
+      }
+    },
+    {
+      "code": "LTE",
+      "name": "LTE",
+      "year": 2023,
+      "population": 2326636900,
+      "volumes": {
+        "water": null,
+        "energy": 3.9012749638624657,
+        "concrete": null,
+        "food": null,
+        "waste": null,
+        "total": 3.9012749638624657
+      }
+    },
+    {
+      "code": "LTU",
+      "name": "Lithuania",
+      "year": 2023,
+      "population": 2871585,
+      "volumes": {
+        "water": 12.720028850473986,
+        "energy": 2.9420337548775324,
+        "concrete": 0.0010825280911313,
+        "food": 0.488735,
+        "waste": 0.2360000012559009,
+        "total": 16.387880134698552
+      }
+    },
+    {
+      "code": "LUX",
+      "name": "Luxembourg",
+      "year": 2023,
+      "population": 666430,
+      "volumes": {
+        "water": 8.76566001090589,
+        "energy": 7.9996398721546305,
+        "concrete": 3.429789003667731,
+        "food": 0.5141901000000001,
+        "waste": 0.3955000112922167,
+        "total": 21.104778998020468
+      }
+    },
+    {
+      "code": "LVA",
+      "name": "Latviae",
+      "year": 2023,
+      "population": 1877445,
+      "volumes": {
+        "water": 10.996122268145191,
+        "energy": 2.540207569329591,
+        "concrete": 0.001750098823515,
+        "food": 0.48795974,
+        "waste": 0.2195000010455935,
+        "total": 14.245539677343892
+      }
+    },
+    {
+      "code": "MAC",
+      "name": "Macao SAR, China",
+      "year": 2023,
+      "population": 678800,
+      "volumes": {
+        "water": null,
+        "energy": null,
+        "concrete": null,
+        "food": null,
+        "waste": 0.3086919092339182,
+        "total": 0.3086919092339182
+      }
+    },
+    {
+      "code": "MAF",
+      "name": "St. Martin (French part)",
+      "year": 2023,
+      "population": 27515,
+      "volumes": {
+        "water": null,
+        "energy": null,
+        "concrete": null,
+        "food": null,
+        "waste": 0.25,
+        "total": 0.25
+      }
+    },
+    {
+      "code": "MAR",
+      "name": "Morocco",
+      "year": 2023,
+      "population": 37712505,
+      "volumes": {
+        "water": 33.965265807597774,
+        "energy": 0.6980787937581975,
+        "concrete": null,
+        "food": 0.4896635600000001,
+        "waste": 0.0998307597627839,
+        "total": 35.25283892111875
+      }
+    },
+    {
+      "code": "MCO",
+      "name": "Monaco",
+      "year": 2023,
+      "population": 38956,
+      "volumes": {
+        "water": 15.401333702754364,
+        "energy": null,
+        "concrete": null,
+        "food": null,
+        "waste": 0.6087393801445095,
+        "total": 16.010073082898874
+      }
+    },
+    {
+      "code": "MDA",
+      "name": "Moldova",
+      "year": 2023,
+      "population": 2457783,
+      "volumes": {
+        "water": 40.12036180000213,
+        "energy": 1.6880660334944142,
+        "concrete": 0.0013949854110681,
+        "food": null,
+        "waste": 0.5600842743101786,
+        "total": 42.36990709321779
+      }
+    },
+    {
+      "code": "MDG",
+      "name": "Madagascar",
+      "year": 2023,
+      "population": 31195932,
+      "volumes": {
+        "water": 53.02036412510854,
+        "energy": null,
+        "concrete": 0.0137380549672767,
+        "food": 0.28878216,
+        "waste": 0.0756944563613757,
+        "total": 53.39857879643719
+      }
+    },
+    {
+      "code": "MDV",
+      "name": "Maldives",
+      "year": 2023,
+      "population": 525994,
+      "volumes": {
+        "water": 1.0753816270735583,
+        "energy": null,
+        "concrete": null,
+        "food": 0.39002294,
+        "waste": 0.258461517781422,
+        "total": 1.7238660848549805
+      }
+    },
+    {
+      "code": "MEX",
+      "name": "Mexico",
+      "year": 2023,
+      "population": 129739759,
+      "volumes": {
+        "water": 69.7771227424479,
+        "energy": 1.956391409668028,
+        "concrete": 1.0570611368474727,
+        "food": 0.48246576,
+        "waste": 0.2108968085331502,
+        "total": 73.48393785749654
+      }
+    },
+    {
+      "code": "MHL",
+      "name": "Marshall Islands",
+      "year": 2023,
+      "population": 38827,
+      "volumes": {
+        "water": null,
+        "energy": null,
+        "concrete": null,
+        "food": null,
+        "waste": 0.0815827855965753,
+        "total": 0.0815827855965753
+      }
+    },
+    {
+      "code": "MIC",
+      "name": "MIC",
+      "year": 2023,
+      "population": 5891444768,
+      "volumes": {
+        "water": null,
+        "energy": 2.323459412329342,
+        "concrete": null,
+        "food": null,
+        "waste": null,
+        "total": 2.323459412329342
+      }
+    },
+    {
+      "code": "MKD",
+      "name": "North Macedonia",
+      "year": 2023,
+      "population": 1827816,
+      "volumes": {
+        "water": 142.1629834332429,
+        "energy": 2.324249267978834,
+        "concrete": 1.267711223199084,
+        "food": 0.5074303,
+        "waste": 0.1505000040807352,
+        "total": 146.41287422850158
+      }
+    },
+    {
+      "code": "MLI",
+      "name": "Malie",
+      "year": 2023,
+      "population": 23769127,
+      "volumes": {
+        "water": 26.95374457255598,
+        "energy": null,
+        "concrete": 0.0002163671027066,
+        "food": null,
+        "waste": 0.0605170981846942,
+        "total": 27.01447803784338
+      }
+    },
+    {
+      "code": "MLT",
+      "name": "Malta",
+      "year": 2023,
+      "population": 552747,
+      "volumes": {
+        "water": 8.277991962104487,
+        "energy": 3.5294628464740687,
+        "concrete": null,
+        "food": 0.49736652,
+        "waste": 0.347000005470971,
+        "total": 12.651821334049526
+      }
+    },
+    {
+      "code": "MMR",
+      "name": "Burma4",
+      "year": 2023,
+      "population": 54133798,
+      "volumes": {
+        "water": 74.12999877419728,
+        "energy": null,
+        "concrete": 0.0004486238760804,
+        "food": 0.41011692,
+        "waste": 0.0507349977971802,
+        "total": 74.59129931587053
+      }
+    },
+    {
+      "code": "MNE",
+      "name": "Montenegro",
+      "year": 2023,
+      "population": 623529,
+      "volumes": {
+        "water": 424.41844672864585,
+        "energy": 3.1950398457810283,
+        "concrete": null,
+        "food": 0.5357367799999999,
+        "waste": 0.2650000020089131,
+        "total": 428.4142233564357
+      }
+    },
+    {
+      "code": "MNG",
+      "name": "Mongolia",
+      "year": 2023,
+      "population": 3481145,
+      "volumes": {
+        "water": 16.14854105015304,
+        "energy": null,
+        "concrete": 0.0014067621018782,
+        "food": 0.44253622,
+        "waste": 0.4789591589873548,
+        "total": 17.071443191242274
+      }
+    },
+    {
+      "code": "MNP",
+      "name": "Northern Mariana Islands",
+      "year": 2023,
+      "population": 45143,
+      "volumes": {
+        "water": null,
+        "energy": null,
+        "concrete": null,
+        "food": null,
+        "waste": 0.3031443343326671,
+        "total": 0.3031443343326671
+      }
+    },
+    {
+      "code": "MOZ",
+      "name": "Mozambiquee",
+      "year": 2023,
+      "population": 33635160,
+      "volumes": {
+        "water": 5.409042251020421,
+        "energy": null,
+        "concrete": 0.0002463408613401,
+        "food": 0.31917498,
+        "waste": 0.0459349718080541,
+        "total": 5.774398543689815
+      }
+    },
+    {
+      "code": "MRT",
+      "name": "Mauritania",
+      "year": 2023,
+      "population": 5022441,
+      "volumes": {
+        "water": 33.159413813428614,
+        "energy": null,
+        "concrete": 0.5688753451046726,
+        "food": 0.42476948,
+        "waste": 0.0647408313293146,
+        "total": 34.217799469862605
+      }
+    },
+    {
+      "code": "MTQ",
+      "name": "Martiniquee",
+      "year": 2023,
+      "population": null,
+      "volumes": {
+        "water": null,
+        "energy": null,
+        "concrete": null,
+        "food": null,
+        "waste": null,
+        "total": 0.0
+      }
+    },
+    {
+      "code": "MUS",
+      "name": "Mauritius",
+      "year": 2023,
+      "population": 1261041,
+      "volumes": {
+        "water": 60.02907697449945,
+        "energy": 1.708588380552256,
+        "concrete": null,
+        "food": 0.47530884,
+        "waste": 0.1733317609478002,
+        "total": 62.38630595599951
+      }
+    },
+    {
+      "code": "MWI",
+      "name": "Malawi",
+      "year": 2023,
+      "population": 21104482,
+      "volumes": {
+        "water": 7.910287817582136,
+        "energy": null,
+        "concrete": 0.0527985341827254,
+        "food": 0.38227472,
+        "waste": 0.0391455924231111,
+        "total": 8.384506664187974
+      }
+    },
+    {
+      "code": "MYS",
+      "name": "Malaysia",
+      "year": 2023,
+      "population": 35126298,
+      "volumes": {
+        "water": 23.18137162781117,
+        "energy": null,
+        "concrete": 0.0018863359867868,
+        "food": 0.4272704600000001,
+        "waste": 0.2147458999624719,
+        "total": 23.82527432376043
+      }
+    },
+    {
+      "code": "NAC",
+      "name": "NAC",
+      "year": 2023,
+      "population": 376954413,
+      "volumes": {
+        "water": null,
+        "energy": 8.927953366941843,
+        "concrete": null,
+        "food": null,
+        "waste": null,
+        "total": 8.927953366941843
+      }
+    },
+    {
+      "code": "NAM",
+      "name": "Namibiae",
+      "year": 2023,
+      "population": 2963095,
+      "volumes": {
+        "water": 4.272707537921592,
+        "energy": null,
+        "concrete": 0.8678184706965424,
+        "food": 0.37684936,
+        "waste": 0.0822858326020219,
+        "total": 5.599661201220156
+      }
+    },
+    {
+      "code": "NCL",
+      "name": "New Caledonia",
+      "year": 2023,
+      "population": 289870,
+      "volumes": {
+        "water": null,
+        "energy": null,
+        "concrete": 0.6801078315895303,
+        "food": null,
+        "waste": 0.1945276690647482,
+        "total": 0.8746355006542785
+      }
+    },
+    {
+      "code": "NER",
+      "name": "Niger",
+      "year": 2023,
+      "population": 26159867,
+      "volumes": {
+        "water": 12.238664866669655,
+        "energy": null,
+        "concrete": 0.0436874217616298,
+        "food": 0.38748692,
+        "waste": 0.1054941251909122,
+        "total": 12.7753333336222
+      }
+    },
+    {
+      "code": "NGA",
+      "name": "Nigeriae",
+      "year": 2023,
+      "population": 227882945,
+      "volumes": {
+        "water": 3.9096524025930894,
+        "energy": null,
+        "concrete": 0.3385196603583351,
+        "food": 0.36063606,
+        "waste": 0.0894250028898556,
+        "total": 4.698233125841281
+      }
+    },
+    {
+      "code": "NIC",
+      "name": "Nicaragua",
+      "year": 2023,
+      "population": 6823613,
+      "volumes": {
+        "water": 22.68098164542836,
+        "energy": null,
+        "concrete": null,
+        "food": 0.40298774,
+        "waste": 0.1332249999695001,
+        "total": 23.217194385397857
+      }
+    },
+    {
+      "code": "NLD",
+      "name": "Netherlands",
+      "year": 2023,
+      "population": 17877117,
+      "volumes": {
+        "water": 92.97409520913452,
+        "energy": 5.013159000973146,
+        "concrete": 0.0003995530791042,
+        "food": 0.50617908,
+        "waste": 0.2540000057693916,
+        "total": 98.74783284895616
+      }
+    },
+    {
+      "code": "NOR",
+      "name": "Norway",
+      "year": 2023,
+      "population": 5519594,
+      "volumes": {
+        "water": 93.5191261111804,
+        "energy": 19.75697487894942,
+        "concrete": 0.0007246909827063,
+        "food": 0.50743614,
+        "waste": 0.3879999956992432,
+        "total": 114.17226181681178
+      }
+    },
+    {
+      "code": "NPL",
+      "name": "Nepal",
+      "year": 2023,
+      "population": 29694614,
+      "volumes": {
+        "water": 38.32593776240355,
+        "energy": null,
+        "concrete": 0.5773052696646315,
+        "food": 0.42628642,
+        "waste": 0.0305177415396981,
+        "total": 39.36004719360788
+      }
+    },
+    {
+      "code": "NRU",
+      "name": "Nauru",
+      "year": 2023,
+      "population": 11875,
+      "volumes": {
+        "water": null,
+        "energy": null,
+        "concrete": null,
+        "food": null,
+        "waste": 0.23725,
+        "total": 0.23725
+      }
+    },
+    {
+      "code": "NZL",
+      "name": "New Zealande",
+      "year": 2023,
+      "population": 5245000,
+      "volumes": {
+        "water": 154.27864893583114,
+        "energy": 8.349952335557678,
+        "concrete": 0.5174996595396977,
+        "food": 0.455739,
+        "waste": 0.362797536599399,
+        "total": 163.96463746752792
+      }
+    },
+    {
+      "code": "OED",
+      "name": "OED",
+      "year": 2023,
+      "population": 1388472514,
+      "volumes": {
+        "water": null,
+        "energy": 5.297848553594052,
+        "concrete": null,
+        "food": null,
+        "waste": null,
+        "total": 5.297848553594052
+      }
+    },
+    {
+      "code": "OMN",
+      "name": "Oman",
+      "year": 2023,
+      "population": 5049269,
+      "volumes": {
+        "water": 41.424192111415984,
+        "energy": null,
+        "concrete": null,
+        "food": 0.43527418,
+        "waste": 0.3352301954862836,
+        "total": 42.19469648690227
+      }
+    },
+    {
+      "code": "PAK",
+      "name": "Pakistan",
+      "year": 2023,
+      "population": 247504495,
+      "volumes": {
+        "water": 44.11410392367949,
+        "energy": null,
+        "concrete": 0.0004827502512342,
+        "food": 0.36700896,
+        "waste": 0.079605194672692,
+        "total": 44.56120082860342
+      }
+    },
+    {
+      "code": "PAN",
+      "name": "Panama",
+      "year": 2023,
+      "population": 4458759,
+      "volumes": {
+        "water": 33.00976919888711,
+        "energy": null,
+        "concrete": null,
+        "food": 0.45327014,
+        "waste": 0.185458535733082,
+        "total": 33.6484978746202
+      }
+    },
+    {
+      "code": "PER",
+      "name": "Peru",
+      "year": 2023,
+      "population": 33845617,
+      "volumes": {
+        "water": 92.84870684480512,
+        "energy": null,
+        "concrete": 0.0009626905942609,
+        "food": 0.4103359200000001,
+        "waste": 0.1349016178551409,
+        "total": 93.39490707325452
+      }
+    },
+    {
+      "code": "PHL",
+      "name": "Philippines",
+      "year": 2023,
+      "population": 114891199,
+      "volumes": {
+        "water": 63.86178884350522,
+        "energy": null,
+        "concrete": 0.7460474471528992,
+        "food": 0.4355034,
+        "waste": 0.0708086100355338,
+        "total": 65.11414830069366
+      }
+    },
+    {
+      "code": "PLW",
+      "name": "Palau",
+      "year": 2023,
+      "population": 17727,
+      "volumes": {
+        "water": null,
+        "energy": null,
+        "concrete": null,
+        "food": null,
+        "waste": 0.2191960540389713,
+        "total": 0.2191960540389713
+      }
+    },
+    {
+      "code": "PNG",
+      "name": "Papua New Guineae",
+      "year": 2023,
+      "population": 10389635,
+      "volumes": {
+        "water": 4.60835203858634,
+        "energy": null,
+        "concrete": 0.0439998957752468,
+        "food": 0.3178566,
+        "waste": 0.064468006784613,
+        "total": 5.0346765411462
+      }
+    },
+    {
+      "code": "POL",
+      "name": "Poland",
+      "year": 2023,
+      "population": 36687353,
+      "volumes": {
+        "water": 30.564250440979407,
+        "energy": 3.067304964738119,
+        "concrete": 0.0013071846000212,
+        "food": 0.54460044,
+        "waste": 0.1680000001053439,
+        "total": 34.34546303042289
+      }
+    },
+    {
+      "code": "PRI",
+      "name": "Puerto Rico",
+      "year": 2023,
+      "population": 3203792,
+      "volumes": {
+        "water": 32.5849898364069,
+        "energy": null,
+        "concrete": null,
+        "food": null,
+        "waste": 0.6004514305473858,
+        "total": 33.185441266954285
+      }
+    },
+    {
+      "code": "PRK",
+      "name": "Korea, North",
+      "year": 2023,
+      "population": 26418204,
+      "volumes": {
+        "water": 39.43298261141555,
+        "energy": null,
+        "concrete": 0.0007137935212076,
+        "food": null,
+        "waste": null,
+        "total": 39.433696404936754
+      }
+    },
+    {
+      "code": "PRT",
+      "name": "Portugal",
+      "year": 2023,
+      "population": 10578174,
+      "volumes": {
+        "water": 70.44438952526549,
+        "energy": 4.374318289716162,
+        "concrete": 1.3504896294685913,
+        "food": 0.51872778,
+        "waste": 0.2565000038463721,
+        "total": 76.94442522829662
+      }
+    },
+    {
+      "code": "PRY",
+      "name": "Paraguaye",
+      "year": 2023,
+      "population": 6844146,
+      "volumes": {
+        "water": 42.80206313967791,
+        "energy": 1.672027452365858,
+        "concrete": 0.0007514242307012,
+        "food": 0.44779076,
+        "waste": 0.1369535148413517,
+        "total": 45.05958629111582
+      }
+    },
+    {
+      "code": "PSE",
+      "name": "West Bank and Gaza",
+      "year": 2023,
+      "population": 5165775,
+      "volumes": {
+        "water": null,
+        "energy": null,
+        "concrete": null,
+        "food": null,
+        "waste": 0.1713656943918322,
+        "total": 0.1713656943918322
+      }
+    },
+    {
+      "code": "PST",
+      "name": "PST",
+      "year": 2023,
+      "population": 1121892872,
+      "volumes": {
+        "water": null,
+        "energy": 6.13879451668798,
+        "concrete": null,
+        "food": null,
+        "waste": null,
+        "total": 6.13879451668798
+      }
+    },
+    {
+      "code": "PYF",
+      "name": "French Polynesia",
+      "year": 2023,
+      "population": 281118,
+      "volumes": {
+        "water": null,
+        "energy": null,
+        "concrete": null,
+        "food": null,
+        "waste": 0.2687110643151706,
+        "total": 0.2687110643151706
+      }
+    },
+    {
+      "code": "QAT",
+      "name": "Qatar",
+      "year": 2023,
+      "population": 2656032,
+      "volumes": {
+        "water": 11.281787460998116,
+        "energy": null,
+        "concrete": null,
+        "food": 0.4746576799999999,
+        "waste": 0.23725,
+        "total": 11.993695140998115
+      }
+    },
+    {
+      "code": "REU",
+      "name": "Reunion",
+      "year": 2023,
+      "population": null,
+      "volumes": {
+        "water": null,
+        "energy": null,
+        "concrete": null,
+        "food": null,
+        "waste": null,
+        "total": 0.0
+      }
+    },
+    {
+      "code": "ROU",
+      "name": "Romania",
+      "year": 2023,
+      "population": 19059479,
+      "volumes": {
+        "water": 51.31377330075733,
+        "energy": 1.8098396078927437,
+        "concrete": 0.0013577046286072,
+        "food": 0.5327452400000001,
+        "waste": 0.1400000046495903,
+        "total": 53.797715857928274
+      }
+    },
+    {
+      "code": "RUS",
+      "name": "Russia",
+      "year": 2023,
+      "population": 143826130,
+      "volumes": {
+        "water": 53.89102370444428,
+        "energy": null,
+        "concrete": 1.2515111127581615,
+        "food": 0.5151464,
+        "waste": 0.2094947489442861,
+        "total": 55.867175966146725
+      }
+    },
+    {
+      "code": "RWA",
+      "name": "Rwandae",
+      "year": 2023,
+      "population": 13954471,
+      "volumes": {
+        "water": 5.3585624916651335,
+        "energy": null,
+        "concrete": 0.1658454637431769,
+        "food": 0.3511154,
+        "waste": 0.1839717246256516,
+        "total": 6.059495080033963
+      }
+    },
+    {
+      "code": "SAS",
+      "name": "SAS",
+      "year": 2023,
+      "population": 1662580579,
+      "volumes": {
+        "water": null,
+        "energy": 0.8271414007420548,
+        "concrete": null,
+        "food": null,
+        "waste": null,
+        "total": 0.8271414007420548
+      }
+    },
+    {
+      "code": "SAU",
+      "name": "Saudi Arabia",
+      "year": 2023,
+      "population": 33702731,
+      "volumes": {
+        "water": 72.61487056671064,
+        "energy": null,
+        "concrete": 0.0041704123536542,
+        "food": 0.53433664,
+        "waste": 0.2554999999366229,
+        "total": 73.40887761900092
+      }
+    },
+    {
+      "code": "SDN",
+      "name": "Sudan",
+      "year": 2023,
+      "population": 50042791,
+      "volumes": {
+        "water": 65.40641615639932,
+        "energy": null,
+        "concrete": 0.0001290324286098,
+        "food": null,
+        "waste": 0.0366293903788168,
+        "total": 65.44317457920674
+      }
+    },
+    {
+      "code": "SEN",
+      "name": "Senegal",
+      "year": 2023,
+      "population": 18077573,
+      "volumes": {
+        "water": 20.79986354852178,
+        "energy": 0.2871237195391213,
+        "concrete": 1.4224412599128051,
+        "food": 0.41577442,
+        "waste": 0.0796172045964815,
+        "total": 23.00482015257019
+      }
+    },
+    {
+      "code": "SGP",
+      "name": "Singapore",
+      "year": 2023,
+      "population": 5917648,
+      "volumes": {
+        "water": 4.244683045274658,
+        "energy": 6.825346826982615,
+        "concrete": null,
+        "food": null,
+        "waste": 0.1639315520022441,
+        "total": 11.233961424259515
+      }
+    },
+    {
+      "code": "SLB",
+      "name": "Solomon Islands",
+      "year": 2023,
+      "population": 800005,
+      "volumes": {
+        "water": null,
+        "energy": null,
+        "concrete": null,
+        "food": 0.31618198,
+        "waste": 0.1596875000221823,
+        "total": 0.4758694800221823
+      }
+    },
+    {
+      "code": "SLE",
+      "name": "Sierra Leone",
+      "year": 2023,
+      "population": 8460512,
+      "volumes": {
+        "water": 3.0744429393954835,
+        "energy": null,
+        "concrete": 0.1215731894915376,
+        "food": 0.3558458,
+        "waste": 0.0560897338913303,
+        "total": 3.607951662778352
+      }
+    },
+    {
+      "code": "SLV",
+      "name": "El Salvador",
+      "year": 2023,
+      "population": 6309624,
+      "volumes": {
+        "water": 37.01460012255823,
+        "energy": null,
+        "concrete": 0.0007290450270887,
+        "food": 0.42286418,
+        "waste": 0.1337466522705514,
+        "total": 37.57193999985586
+      }
+    },
+    {
+      "code": "SMR",
+      "name": "San Marino",
+      "year": 2023,
+      "population": 33860,
+      "volumes": {
+        "water": null,
+        "energy": null,
+        "concrete": null,
+        "food": null,
+        "waste": 0.2586314489654549,
+        "total": 0.2586314489654549
+      }
+    },
+    {
+      "code": "SOM",
+      "name": "Somalia",
+      "year": 2023,
+      "population": 18358615,
+      "volumes": {
+        "water": 22.21612208199616,
+        "energy": null,
+        "concrete": null,
+        "food": null,
+        "waste": 0.0812299140885358,
+        "total": 22.297351996084693
+      }
+    },
+    {
+      "code": "SRB",
+      "name": "Serbia",
+      "year": 2023,
+      "population": 6623183,
+      "volumes": {
+        "water": 91.60574986008318,
+        "energy": 3.5626827765441496,
+        "concrete": 0.0011505042213086,
+        "food": 0.5663237799999999,
+        "waste": 0.168999996400275,
+        "total": 95.90490691724892
+      }
+    },
+    {
+      "code": "SSD",
+      "name": "South Sudan",
+      "year": 2023,
+      "population": 11483374,
+      "volumes": {
+        "water": 7.15948530955106,
+        "energy": null,
+        "concrete": null,
+        "food": null,
+        "waste": 0.1199142651883383,
+        "total": 7.279399574739398
+      }
+    },
+    {
+      "code": "STP",
+      "name": "Sao Tome and Principe",
+      "year": 2023,
+      "population": 230871,
+      "volumes": {
+        "water": 21.672701253106155,
+        "energy": null,
+        "concrete": null,
+        "food": 0.3327938599999999,
+        "waste": 0.0668872146643941,
+        "total": 22.072382327770548
+      }
+    },
+    {
+      "code": "SUR",
+      "name": "Surinamee",
+      "year": 2023,
+      "population": 628886,
+      "volumes": {
+        "water": 118.52002479444604,
+        "energy": 2.0280305174546767,
+        "concrete": 0.2271590444963679,
+        "food": 0.37070422,
+        "waste": 0.0747190180915144,
+        "total": 121.2206375944886
+      }
+    },
+    {
+      "code": "SVK",
+      "name": "Slovakia",
+      "year": 2023,
+      "population": 5426740,
+      "volumes": {
+        "water": 12.443228057367795,
+        "energy": 3.2717248292713457,
+        "concrete": 0.0017900775998639,
+        "food": 0.4350741599999999,
+        "waste": 0.2105000015584683,
+        "total": 16.362317125797475
+      }
+    },
+    {
+      "code": "SVN",
+      "name": "Sloveniae",
+      "year": 2023,
+      "population": 2120461,
+      "volumes": {
+        "water": 46.95478473405845,
+        "energy": 4.492890932679262,
+        "concrete": 1.1965053151851683,
+        "food": 0.46724234,
+        "waste": 0.251999991858027,
+        "total": 53.363423313780906
+      }
+    },
+    {
+      "code": "SWE",
+      "name": "Swedene",
+      "year": 2023,
+      "population": 10536632,
+      "volumes": {
+        "water": 59.15215121177586,
+        "energy": 11.906527626664747,
+        "concrete": 0.0007321396167471,
+        "food": 0.4915498800000001,
+        "waste": 0.2245000050070716,
+        "total": 71.77546086306442
+      }
+    },
+    {
+      "code": "SWZ",
+      "name": "Eswatini",
+      "year": 2023,
+      "population": 1230506,
+      "volumes": {
+        "water": 105.0705497263393,
+        "energy": null,
+        "concrete": null,
+        "food": 0.37577042,
+        "waste": 0.081229913975004,
+        "total": 105.5275500603143
+      }
+    },
+    {
+      "code": "SXM",
+      "name": "Sint Maarten (Dutch part)",
+      "year": 2023,
+      "population": 42749,
+      "volumes": {
+        "water": null,
+        "energy": null,
+        "concrete": null,
+        "food": null,
+        "waste": null,
+        "total": 0.0
+      }
+    },
+    {
+      "code": "SYC",
+      "name": "Seychelles",
+      "year": 2023,
+      "population": 119773,
+      "volumes": {
+        "water": 11.297755729961326,
+        "energy": null,
+        "concrete": null,
+        "food": 0.4217414399999999,
+        "waste": 0.2717914453642572,
+        "total": 11.991288615325583
+      }
+    },
+    {
+      "code": "SYR",
+      "name": "Syrian Arab Republic",
+      "year": 2023,
+      "population": 23594623,
+      "volumes": {
+        "water": 74.55115881682708,
+        "energy": null,
+        "concrete": null,
+        "food": 0.32986656,
+        "waste": 0.1080437776099871,
+        "total": 74.98906915443708
+      }
+    },
+    {
+      "code": "TCA",
+      "name": "Turks and Caicos Islands",
+      "year": 2023,
+      "population": 46198,
+      "volumes": {
+        "water": null,
+        "energy": null,
+        "concrete": null,
+        "food": null,
+        "waste": null,
+        "total": 0.0
+      }
+    },
+    {
+      "code": "TCD",
+      "name": "Chad",
+      "year": 2023,
+      "population": 19319064,
+      "volumes": {
+        "water": 5.715413032940164,
+        "energy": null,
+        "concrete": 0.0961300639173231,
+        "food": null,
+        "waste": 0.0571560292321103,
+        "total": 5.868699126089598
+      }
+    },
+    {
+      "code": "TEA",
+      "name": "TEA",
+      "year": 2023,
+      "population": 2111139152,
+      "volumes": {
+        "water": null,
+        "energy": 3.898524918286832,
+        "concrete": null,
+        "food": null,
+        "waste": null,
+        "total": 3.898524918286832
+      }
+    },
+    {
+      "code": "TGO",
+      "name": "Togo",
+      "year": 2023,
+      "population": 9304337,
+      "volumes": {
+        "water": 2.941964199433921,
+        "energy": null,
+        "concrete": 0.0005220299799053,
+        "food": null,
+        "waste": 0.0767079464898951,
+        "total": 3.019194175903721
+      }
+    },
+    {
+      "code": "THA",
+      "name": "Thailand",
+      "year": 2023,
+      "population": 71702435,
+      "volumes": {
+        "water": 55.88242698010742,
+        "energy": 1.423302290919408,
+        "concrete": 0.0017030702752882,
+        "food": 0.41686942,
+        "waste": 0.1955600399664421,
+        "total": 57.91986180126856
+      }
+    },
+    {
+      "code": "TJK",
+      "name": "Tajikistan",
+      "year": 2023,
+      "population": 10389799,
+      "volumes": {
+        "water": 124.8616656736265,
+        "energy": null,
+        "concrete": 0.0012253777547985,
+        "food": 0.39590674,
+        "waste": 0.109283550153837,
+        "total": 125.36808134153512
+      }
+    },
+    {
+      "code": "TKM",
+      "name": "Turkmenistane",
+      "year": 2023,
+      "population": 7364438,
+      "volumes": {
+        "water": 435.2918868393628,
+        "energy": null,
+        "concrete": 0.0010475050118265,
+        "food": 0.4108673599999999,
+        "waste": 0.0465872335699405,
+        "total": 435.7503889379445
+      }
+    },
+    {
+      "code": "TLA",
+      "name": "TLA",
+      "year": 2023,
+      "population": 642397939,
+      "volumes": {
+        "water": null,
+        "energy": 1.869662035820586,
+        "concrete": null,
+        "food": null,
+        "waste": null,
+        "total": 1.869662035820586
+      }
+    },
+    {
+      "code": "TLS",
+      "name": "Timor-Leste",
+      "year": 2023,
+      "population": 1384286,
+      "volumes": {
+        "water": 102.63948759494808,
+        "energy": null,
+        "concrete": null,
+        "food": 0.3323763,
+        "waste": 0.0251739812764696,
+        "total": 102.99703787622455
+      }
+    },
+    {
+      "code": "TON",
+      "name": "Tonga",
+      "year": 2023,
+      "population": 104597,
+      "volumes": {
+        "water": null,
+        "energy": null,
+        "concrete": null,
+        "food": 0.4466213,
+        "waste": 0.082125,
+        "total": 0.5287463000000001
+      }
+    },
+    {
+      "code": "TSA",
+      "name": "TSA",
+      "year": 2023,
+      "population": 1662580579,
+      "volumes": {
+        "water": null,
+        "energy": 0.8271414007420548,
+        "concrete": null,
+        "food": null,
+        "waste": null,
+        "total": 0.8271414007420548
+      }
+    },
+    {
+      "code": "TTO",
+      "name": "Trinidad and Tobago",
+      "year": 2023,
+      "population": 1367510,
+      "volumes": {
+        "water": 29.518405655976505,
+        "energy": null,
+        "concrete": 1.5022089156830405,
+        "food": 0.4300722,
+        "waste": 0.2740283111211505,
+        "total": 31.724715082780698
+      }
+    },
+    {
+      "code": "TUN",
+      "name": "Tunisia",
+      "year": 2023,
+      "population": 12200431,
+      "volumes": {
+        "water": 38.23334090278853,
+        "energy": null,
+        "concrete": 0.0017772205869495,
+        "food": 0.5010048400000001,
+        "waste": 0.1211424214916347,
+        "total": 38.85726538486711
+      }
+    },
+    {
+      "code": "TUR",
+      "name": "Turkey",
+      "year": 2023,
+      "population": 85325965,
+      "volumes": {
+        "water": 60.65010957245387,
+        "energy": 1.969689999990036,
+        "concrete": 0.00272738952155,
+        "food": null,
+        "waste": 0.2119999929041984,
+        "total": 62.83452695486966
+      }
+    },
+    {
+      "code": "TUV",
+      "name": "Tuvalu",
+      "year": 2023,
+      "population": 9816,
+      "volumes": {
+        "water": null,
+        "energy": null,
+        "concrete": null,
+        "food": 0.48193432,
+        "waste": 0.1797551815806073,
+        "total": 0.6616895015806075
+      }
+    },
+    {
+      "code": "TWN",
+      "name": "Taiwan",
+      "year": 2023,
+      "population": null,
+      "volumes": {
+        "water": null,
+        "energy": null,
+        "concrete": null,
+        "food": null,
+        "waste": 0.1565247076896816,
+        "total": 0.1565247076896816
+      }
+    },
+    {
+      "code": "TZA",
+      "name": "Tanzania",
+      "year": 2023,
+      "population": 66617606,
+      "volumes": {
+        "water": 9.606501560906242,
+        "energy": null,
+        "concrete": 0.0003345318996559,
+        "food": null,
+        "waste": 0.094503145244027,
+        "total": 9.701339238049924
+      }
+    },
+    {
+      "code": "UGA",
+      "name": "Uganda",
+      "year": 2023,
+      "population": 48656601,
+      "volumes": {
+        "water": 1.6145273678195895,
+        "energy": null,
+        "concrete": 0.0002994748558664,
+        "food": 0.3471441999999999,
+        "waste": 0.100375,
+        "total": 2.0623460426754563
+      }
+    },
+    {
+      "code": "UKR",
+      "name": "Ukraine",
+      "year": 2023,
+      "population": 37732836,
+      "volumes": {
+        "water": 14.200396363517116,
+        "energy": 1.7614260428238182,
+        "concrete": 0.0004997541890872,
+        "food": 0.40672534,
+        "waste": 0.1693383576148275,
+        "total": 16.53838585814485
+      }
+    },
+    {
+      "code": "URY",
+      "name": "Uruguay",
+      "year": 2023,
+      "population": 3388081,
+      "volumes": {
+        "water": 159.40373078191004,
+        "energy": null,
+        "concrete": null,
+        "food": 0.48512004,
+        "waste": 0.1836107261379108,
+        "total": 160.07246154804795
+      }
+    },
+    {
+      "code": "USA",
+      "name": "United States6",
+      "year": 2023,
+      "population": 336806231,
+      "volumes": {
+        "water": 159.50762028958837,
+        "energy": 13.178786915020025,
+        "concrete": 0.0007643224730856,
+        "food": 0.57631018,
+        "waste": 0.4059300367205982,
+        "total": 173.66941174380207
+      }
+    },
+    {
+      "code": "UZB",
+      "name": "Uzbekistan",
+      "year": 2023,
+      "population": 35652307,
+      "volumes": {
+        "water": 147.24185042274334,
+        "energy": null,
+        "concrete": 0.0009560591488711,
+        "food": 0.48139558,
+        "waste": 0.0671715729903105,
+        "total": 147.79137363488252
+      }
+    },
+    {
+      "code": "VCT",
+      "name": "Saint Vincent and the Grenadines",
+      "year": 2023,
+      "population": 101323,
+      "volumes": {
+        "water": 9.283569462433118,
+        "energy": null,
+        "concrete": null,
+        "food": 0.44426924,
+        "waste": 0.144175,
+        "total": 9.87201370243312
+      }
+    },
+    {
+      "code": "VEN",
+      "name": "Venezuelae",
+      "year": 2023,
+      "population": 28300854,
+      "volumes": {
+        "water": 96.14973131398092,
+        "energy": null,
+        "concrete": 0.0001514340975616,
+        "food": 0.40885694,
+        "waste": 0.1635678414536073,
+        "total": 96.7223075295321
+      }
+    },
+    {
+      "code": "VGB",
+      "name": "British Virgin Islands",
+      "year": 2023,
+      "population": 38985,
+      "volumes": {
+        "water": null,
+        "energy": null,
+        "concrete": null,
+        "food": null,
+        "waste": 0.511,
+        "total": 0.511
+      }
+    },
+    {
+      "code": "VIR",
+      "name": "Virgin Islands (U.S.)",
+      "year": 2023,
+      "population": 104917,
+      "volumes": {
+        "water": null,
+        "energy": null,
+        "concrete": null,
+        "food": null,
+        "waste": 0.6924487635181125,
+        "total": 0.6924487635181125
+      }
+    },
+    {
+      "code": "VNM",
+      "name": "Vietnam",
+      "year": 2023,
+      "population": 100352192,
+      "volumes": {
+        "water": 57.44763410744158,
+        "energy": null,
+        "concrete": 0.0030450470165827,
+        "food": 0.4505603800000001,
+        "waste": 0.055044433556814,
+        "total": 57.95628396801498
+      }
+    },
+    {
+      "code": "VUT",
+      "name": "Vanuatu",
+      "year": 2023,
+      "population": 320409,
+      "volumes": {
+        "water": null,
+        "energy": null,
+        "concrete": null,
+        "food": 0.4247227599999999,
+        "waste": 0.1298538638767465,
+        "total": 0.5545766238767464
+      }
+    },
+    {
+      "code": "WSM",
+      "name": "Samoa",
+      "year": 2023,
+      "population": 216663,
+      "volumes": {
+        "water": null,
+        "energy": null,
+        "concrete": null,
+        "food": 0.4550104600000001,
+        "waste": 0.073,
+        "total": 0.5280104600000001
+      }
+    },
+    {
+      "code": "XKX",
+      "name": "Kosovoe",
+      "year": 2023,
+      "population": 1682668,
+      "volumes": {
+        "water": null,
+        "energy": null,
+        "concrete": 1.3481990675352646,
+        "food": null,
+        "waste": 0.0885225885225885,
+        "total": 1.436721656057853
+      }
+    },
+    {
+      "code": "YEM",
+      "name": "Yemen",
+      "year": 2023,
+      "population": 39390799,
+      "volumes": {
+        "water": 11.184589743019762,
+        "energy": null,
+        "concrete": null,
+        "food": 0.26433738,
+        "waste": 0.0876737026238052,
+        "total": 11.536600825643568
+      }
+    },
+    {
+      "code": "ZAF",
+      "name": "South Africa",
+      "year": 2023,
+      "population": 63212384,
+      "volumes": {
+        "water": 43.96427592529562,
+        "energy": 2.000243496590792,
+        "concrete": 0.5423891983842009,
+        "food": 0.39331524,
+        "waste": 0.1784019530578234,
+        "total": 47.07862581332843
+      }
+    },
+    {
+      "code": "ZMB",
+      "name": "Zambia",
+      "year": 2023,
+      "population": 20723965,
+      "volumes": {
+        "water": 9.354014931067562,
+        "energy": null,
+        "concrete": 0.0003817526506838,
+        "food": 0.31678642,
+        "waste": 0.0914235055965906,
+        "total": 9.762606609314837
+      }
+    },
+    {
+      "code": "ZWE",
+      "name": "Zimbabwe",
+      "year": 2023,
+      "population": 16340822,
+      "volumes": {
+        "water": 36.63925673742845,
+        "energy": null,
+        "concrete": null,
+        "food": 0.34943348,
+        "waste": 0.0579876445189302,
+        "total": 37.04667786194738
+      }
+    }
+  ],
+  "statistics": {
+    "water_volume_m3_per_capita_per_year": {
+      "min": 0.8005691355632473,
+      "max": 435.2918868393628,
+      "mean": 51.48789776822924,
+      "median": 34.40793335311464,
+      "count": 179
+    },
+    "energy_battery_volume_m3_per_capita_per_year": {
+      "min": 0.0,
+      "max": 31.22227335012925,
+      "mean": 4.294350842779137,
+      "median": 3.232725703491199,
+      "count": 90
+    },
+    "concrete_volume_m3_per_capita_per_year": {
+      "min": 6.206381492466679e-05,
+      "max": 4.097085864564652,
+      "mean": 0.30771967634254127,
+      "median": 0.0017204605966178,
+      "count": 137
+    },
+    "food_volume_m3_per_capita_per_year": {
+      "min": 0.26433738,
+      "max": 0.57631018,
+      "mean": 0.4346666953658537,
+      "median": 0.43020725000000004,
+      "count": 164
+    },
+    "waste_volume_m3_per_capita_per_year": {
+      "min": 0.0186850536867477,
+      "max": 0.6924487635181125,
+      "mean": 0.18877185096883728,
+      "median": 0.1596875000221823,
+      "count": 215
+    },
+    "population": {
+      "min": 9816,
+      "max": 5891444768,
+      "mean": 161111698.3983051,
+      "median": 9009927.0,
+      "count": 236,
+      "total": 38022360822
+    }
+  }
+}

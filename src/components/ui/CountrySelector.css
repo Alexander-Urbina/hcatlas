@@ -1,0 +1,64 @@
+.country-selector {
+  position: relative;
+}
+
+.country-selector-label {
+  display: block;
+  margin-bottom: 0.5rem;
+  font-weight: 600;
+  font-size: 0.9rem;
+  color: #333;
+}
+
+.country-selector-dropdown {
+  padding: 0.75rem;
+  font-size: 0.95rem;
+  border-radius: 6px;
+  border: 1px solid #ddd;
+  width: 100%;
+  background: #ffffff;
+  color: #333;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.country-selector-dropdown:hover {
+  border-color: #4a90e2;
+}
+
+.country-selector-dropdown:focus {
+  outline: none;
+  border-color: #4a90e2;
+  box-shadow: 0 0 0 3px rgba(74, 144, 226, 0.1);
+}
+
+.country-selector-population {
+  margin-top: 0.5rem;
+  font-size: 0.85rem;
+  color: #666;
+  font-weight: 500;
+}
+
+/* Mobile-friendly styles */
+@media (max-width: 768px) {
+  .country-selector-dropdown {
+    min-height: 44px; /* Touch-friendly size */
+    font-size: 1rem; /* Prevent zoom on iOS */
+  }
+}
+
+@media (max-width: 480px) {
+  .country-selector-label {
+    font-size: 0.85rem;
+  }
+  
+  .country-selector-dropdown {
+    padding: 0.6rem;
+    font-size: 0.95rem;
+  }
+  
+  .country-selector-population {
+    font-size: 0.8rem;
+  }
+}
+
