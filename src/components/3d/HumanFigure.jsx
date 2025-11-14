@@ -140,7 +140,7 @@ export function HumanFigure({ position = [0, 0, 0], label }) {
 }
 
 // Preload the model for better performance
-// Use import.meta.env.BASE_URL to handle GitHub Pages base path
-const preloadModelPath = `${import.meta.env.BASE_URL}models/low_poly_male_base.glb`;
-useGLTF.preload(preloadModelPath);
+// Note: Preload happens at module level, so we need to handle base path
+// import.meta.env.BASE_URL is available at build time
+useGLTF.preload(`${import.meta.env.BASE_URL}models/low_poly_male_base.glb`);
 
